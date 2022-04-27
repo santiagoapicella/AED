@@ -1,1 +1,1 @@
-archivo readme
+COMPILADOR: w64devkit
