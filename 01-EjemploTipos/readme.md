@@ -1,1 +1,2 @@
-
+Este tp es acerca de los tipos de datos y las operaciones correspondientes a cada tipo, ya que dependiendo del tipo de dato se pueden realizar diferentes operaciones. En mi caso utiliza las que se nombraron en clase respectivamente a cada tipo de dato pedido(bool, char, unsigned, int, double, y string).
+En cuanto a la pregunta si los tipos de datos antes nombrados son todos los que vimos en clase ? La respuesta es no ya que tambien vimos otros tipos de datos como float, long y short.
